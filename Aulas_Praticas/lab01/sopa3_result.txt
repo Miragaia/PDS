@@ -1,0 +1,52 @@
+D H Q B E V G N W O X W Y J B 
+U O R J C E A V W U B S B Q K 
+X N Y I V X T V J B N K G Z T 
+R F J H L X O M H T L N X A W 
+S Z O D A F K Q P M B C B U N 
+A T C D C R B L J P A Q J C Y 
+X T O Y A R K Y I V G K H I G 
+L I C R V E D O A B Y V T V Z 
+Z V E W I L B L Q K T U Z P Q 
+H I H T F E O A R H J T L A G 
+O Q H T I T N W N W A Y W M V 
+R T U H T Q D R Y I O R C C E 
+K Q G E F W J T A N A A S U L 
+Z U W Y N C T O X C F X C L B 
+O V E L H A V Q J K H S W X P 
+
+
+Palavras a encontrar: 
+CAO
+GATO
+VACA
+BOI
+OVELHA
+CARNEIRO
+CAVALO
+
+
+As coordenadas comecam no 0,0
+
+CAO 3 13,12 Left-Up
+GATO 4 0,6 Down
+VACA 4 7,4 Up
+BOI 3 8,6 Up-Right
+OVELHA 6 14,0 Right
+CARNEIRO 8 13,9 Left-Up
+CAVALO 6 4,11 Down-Left
+
+. . . . . . G . . . . . . . . 
+. . . . . . A . . . . . . . . 
+. . . . . . T . . . . . . . . 
+. . . . . . O . . . . . . . . 
+. . . . A . . . . . . C . . . 
+. . . . C . . . . . A . . . . 
+. . O . A . . . I V . . . . . 
+. . . R V . . O A . . . . . . 
+. . . . I . B L . . . . . . . 
+. . . . . E O . . . . . . . . 
+. . . . . . N . . . . . . . . 
+. . . . . . . R . . O . . . . 
+. . . . . . . . A . . A . . . 
+. . . . . . . . . C . . C . . 
+O V E L H A . . . . . . . . . 

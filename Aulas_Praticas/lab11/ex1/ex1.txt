@@ -1,0 +1,6 @@
+XI.1:
+
+1.
+a) Um padrão que pode ser usasdo para cumprir estes requisitos é o padrão Strategy.
+b) Ver Diagrama
+c) Ver Codigo

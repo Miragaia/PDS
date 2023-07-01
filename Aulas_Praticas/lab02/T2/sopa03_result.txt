@@ -1,0 +1,21 @@
+chat 4 [4, 1] BOTTOM_LEFT_TOP_RIGHT
+check 5 [11, 5] RIGHT_LEFT
+filter 6 [7, 11] UP_DOWN
+mixed 5 [10, 2] DOWN_UP
+puzzle 6 [3, 1] TOP_LEFT_BOTTOM_RIGHT
+random 6 [1, 6] TOP_RIGHT_BOTTOM_LEFT
+
+--------------------------------------------------------
+
+. . . t . r . . . . . . 
+. . a . a . . . . . . . 
+p h . n . . . . . . . . 
+c u d . . . . . . . . . 
+. o z . . . . . . . . . 
+m d . z . . . . . . . . 
+. e . . l . . . . . f . 
+. x . . . e . . . . i . 
+. i . . . . . . . . l . 
+. m . . . . . . . . t . 
+k c e h c . . . . . e . 
+. . . . . . . . . . r .

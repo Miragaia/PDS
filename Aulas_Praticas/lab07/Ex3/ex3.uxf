@@ -1,0 +1,35 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>410</x><y>0</y><w>210</w><h>190</h></coordinates><panel_attributes>Caixa
+
+--
+-pesoTotal:	int
+-stringBuffer: StringBuffer
+--
++Caixa(String, double)
++add(Produto):	void
++draw():	void
++pesoTotal():	int
++toString():	String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>20</y><w>210</w><h>70</h></coordinates><panel_attributes>Cabazes
+--
++main(String[]):  void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>770</x><y>580</y><w>210</w><h>90</h></coordinates><panel_attributes>Conserva
+--
++Conserva(String, double)
++toString():  String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>290</y><w>210</w><h>190</h></coordinates><panel_attributes>Produto
+--
+-name: String
+-peso: double
+--
++DataProcessing(Database)
++insere(Employee)
++insere(Empregado)
++remove(int)
++printEmployees(): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>90</x><y>580</y><w>210</w><h>90</h></coordinates><panel_attributes>Bebida
+--
++Bebida(String, double)
++toString():  String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>580</y><w>210</w><h>90</h></coordinates><panel_attributes>Doce
+--
++Doce(String, double)
++toString():  String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>470</y><w>280</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>260;10;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>510</x><y>470</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>570</x><y>470</y><w>330</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;310;110</additional_attributes></element><element><id>Relation</id><coordinates><x>510</x><y>180</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;110;10;10</additional_attributes></element></diagram>

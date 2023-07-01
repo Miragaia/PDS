@@ -1,0 +1,54 @@
+J L P I B B X U E K K M I P B 
+Q N I Y B V S A V K E A J K F 
+T B R L W Y C I T A S B S Z M 
+P F N Q Y N T S Y N P Y Q C F 
+W C M A A A A I U L A B N F B 
+K N E R L K A D P A N A G A S 
+U A F I G C N O A K H K D A S 
+K U A H V A R O O N A N L W O 
+Y J U M Y T Y O W G A E J H T 
+L Z T W U J D O T L M C W T G 
+O F B G L A S P O A Z P C S K 
+E L A U M J L H N R I D Q J W 
+O L X U C V J H B M Z I L E G 
+H E Y W I R A J O J B A R J X 
+X O X M E V N K B L D E L Y K 
+
+
+Palavras a encontrar: 
+PORTUGAL
+ESPANHA
+HOLANDA
+ALEMANHA
+ITALIA
+FRANCA
+CANADA
+GANA
+
+
+As coordenadas comecam no 0,0
+
+PORTUGAL 8 5,8 Down-Left
+ESPANHA 7 1,10 Down
+HOLANDA 7 11,7 Up-Right
+ALEMANHA 8 6,13 Down-Left
+ITALIA 6 2,7 Down-Left
+FRANCA 6 6,2 Up-Right
+CANADA 6 9,11 Left-Up
+GANA 4 5,12 Left
+
+. . . . . . . . . . . . . . . 
+. . . . . . . A . . E . . . . 
+. . . . . . C I . . S . . . . 
+. . . . . N T . . . P . . . . 
+. . . . A A A . . . A . . . . 
+. . . R L . . D P A N A G A . 
+. . F I . . . O A . H . D A . 
+. . A . . . R . . N A N L . . 
+. . . . . T . . . . A E . . . 
+. . . . U . . . . L M C . . . 
+. . . G . . . . O A . . . . . 
+. . A . . . . H N . . . . . . 
+. L . . . . . H . . . . . . . 
+. . . . . . A . . . . . . . . 
+. . . . . . . . . . . . . . . 

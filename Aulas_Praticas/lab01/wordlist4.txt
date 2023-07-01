@@ -1,0 +1,6 @@
+cavalo
+carneiro
+ovelha
+gato
+cao
+porco

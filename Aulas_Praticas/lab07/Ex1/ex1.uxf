@@ -1,0 +1,46 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>580</x><y>80</y><w>140</w><h>120</h></coordinates><panel_attributes>Decorator
+--
+-Decorator(Interface)
+--
+-start(Date)
+-terminate(Date)
+-work()
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>460</x><y>340</y><w>150</w><h>120</h></coordinates><panel_attributes>TeamLeader
+--
+-TeamLeader(Interface )
+--
+-start(Date)           void
+-terminate(Date) 	void
+-work() 	                 void
+-plan()                    void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>680</x><y>340</y><w>140</w><h>120</h></coordinates><panel_attributes>Manager
+--
+-Manager(Interface )
+--
+-start(Date)  void
+-terminate(Date)  void
+-work()  void
+-manage()  void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>880</x><y>340</y><w>140</w><h>120</h></coordinates><panel_attributes>Employee
+--
+-Employee()
+-Employee(String)
+--
+-start(Date)           void
+-terminate(Date) 	void
+-work() 	                 void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>250</x><y>80</y><w>140</w><h>70</h></coordinates><panel_attributes>Main
+--
+-Main()
+--
+-Main(String[] ) void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>240</x><y>340</y><w>160</w><h>120</h></coordinates><panel_attributes>TeamMember
+--
+-TeamMember(Interface )
+--
+-start(Date)           void
+-terminate(Date) 	void
+-work() 	                 void
+-colaborate()         void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>910</x><y>60</y><w>140</w><h>70</h></coordinates><panel_attributes>Interface
+--
+-start(Date)           void
+-terminate(Date)  void
+-work()                   void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>190</y><w>130</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>110;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>190</y><w>100</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;10;80;150</additional_attributes></element><element><id>Relation</id><coordinates><x>310</x><y>190</y><w>300</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>280;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>190</y><w>270</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>250;150;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>970</x><y>120</y><w>30</w><h>240</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;220;10;10</additional_attributes></element></diagram>

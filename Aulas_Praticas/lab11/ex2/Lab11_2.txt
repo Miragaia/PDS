@@ -1,0 +1,22 @@
+Class InputStream:
+public abstract class InputStream implementa o metodo abstrato read()
+public abstract int read() throws IOException
+
+O padrão Template Method é aplicado na classe java.nio.InputStream para permitir que as subclasses forneçam uma implementação personalizada para os métodos abstratos, 
+enquanto utilizam a implementação padrão fornecida pela classe abstrata para o restante da lógica.
+
+
+Classe AbstractList:
+public abstract class AbstractList<E> implementa o metodo abstrato get()
+public abstract E get​(int index)
+
+O padrão Template Method na classe AbstractList, concentra-se principalmente em métodos como add(), set(), remove(), que fornecem uma estrutura comum para a manipulação de listas, 
+enquanto delegam a implementação específica dos detalhes da estrutura de dados para as subclasses concretas.
+
+
+Classe OutputStream:
+public abstract class OutputStream implements o metodo abstrato write()
+public abstract void write​(int b) throws IOException
+
+O padrão Template Method é aplicado na classe OutputStream para permitir que as subclasses forneçam implementações personalizadas para os métodos abstratos,
+enquanto utilizam a implementação padrão fornecida pela classe abstrata para o restante da lógica.

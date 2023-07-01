@@ -1,0 +1,27 @@
+alligator 9 [9, 13] BOTTOM_RIGHT_TOP_LEFT
+elephant 8 [8, 15] TOP_RIGHT_BOTTOM_LEFT
+giraffe 7 [7, 8] BOTTOM_LEFT_TOP_RIGHT
+goat 4 [12, 9] DOWN_UP
+lion 4 [3, 1] TOP_LEFT_BOTTOM_RIGHT
+monkey 6 [6, 15] DOWN_UP
+penguin 7 [7, 7] BOTTOM_RIGHT_TOP_LEFT
+polarbear 9 [8, 1] LEFT_RIGHT
+tiger 5 [8, 10] UP_DOWN
+
+--------------------------------------------------------
+
+n . . . r . . . . . . . . e y 
+. i . . . o . . . . . . f . e 
+l . u . . . t . . . . f . . k 
+. i . g . . . a . . a . . . n 
+. . o . n . . . g r . . . . o 
+. . . n . e . . i i . . . . m 
+. . . . . . p g . . l . . . . 
+p o l a r b e a r t . l . . e 
+. . . . . . . . t i . . a l . 
+. . . . . . . . a g . . e . . 
+. . . . . . . . o e . p . . . 
+. . . . . . . . g r h . . . . 
+. . . . . . . . . a . . . . . 
+. . . . . . . . n . . . . . . 
+. . . . . . . t . . . . . . .

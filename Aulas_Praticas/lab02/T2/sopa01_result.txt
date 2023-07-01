@@ -1,0 +1,22 @@
+programming 11 [12, 6] DOWN_UP
+java 4 [9, 1] UP_DOWN
+words 5 [11, 11] BOTTOM_RIGHT_TOP_LEFT
+lines 5 [5, 5] RIGHT_LEFT
+civil 5 [6, 11] UP_DOWN
+test 4 [2, 8] LEFT_RIGHT
+stack 5 [1, 1] LEFT_RIGHT
+
+--------------------------------------------------------
+
+s t a c k . . . . . . . 
+. . . . . g . t e s t . 
+. . . . . n . . . . . . 
+. . . . . i . . . . . . 
+s e n i l m . . . . . . 
+. . . . . m . . . . c . 
+. . . . . a s . . . i . 
+. . . . . r . d . . v . 
+j . . . . g . . r . i . 
+a . . . . o . . . o l . 
+v . . . . r . . . . w . 
+a . . . . p . . . . . .
